@@ -636,6 +636,18 @@ files:
     );
 
   learner_created: false
+- name: src/home-1.jpg
+  visible: true
+  learner_created: true
+- name: src/style.css
+  visible: true
+  learner_created: true
+- name: src/about-1.jpg
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/210/stages/1052/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Fri, 08 Apr 2022 13:11:21 UTC
 record: -1
