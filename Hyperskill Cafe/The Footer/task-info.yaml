@@ -1873,6 +1873,39 @@ files:
         await new CafeTest().runTests()
     }, 30000)
   learner_created: false
+- name: src/assets/contact-1.jpg
+  visible: true
+  learner_created: true
+- name: src/assets/products/turkish-coffee.jpg
+  visible: true
+  learner_created: true
+- name: src/style.css
+  visible: true
+  text: |-
+    * {
+        font-family: 'Source Sans Pro', sans-serif !important;
+        box-sizing: border-box;
+    }
+  learner_created: true
+- name: src/assets/about-1.jpg
+  visible: true
+  learner_created: true
+- name: src/assets/products/espresso.jpg
+  visible: true
+  learner_created: true
+- name: src/script.js
+  visible: true
+  learner_created: true
+- name: src/assets/home-1.jpg
+  visible: true
+  learner_created: true
+- name: src/assets/products/latte.jpg
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/learn/step/15934#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">JetBrains
+    Academy</a> to continue learning.
+  time: Sat, 09 Apr 2022 08:25:03 UTC
 record: -1
