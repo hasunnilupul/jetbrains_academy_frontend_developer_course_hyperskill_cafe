@@ -1523,6 +1523,12 @@ files:
 - name: src/assets/home-1.jpg
   visible: true
   learner_created: true
+- name: src/script.js
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/learn/step/15932#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Sat, 09 Apr 2022 05:07:18 UTC
 record: -1
