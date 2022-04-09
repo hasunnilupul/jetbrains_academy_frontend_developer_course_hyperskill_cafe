@@ -852,15 +852,30 @@ files:
     );
 
   learner_created: false
-- name: src/home-1.jpg
+- name: src/index.html
+  visible: true
+  learner_created: true
+- name: src/assets/products/turkish-coffee.jpg
+  visible: true
+  learner_created: true
+- name: src/assets/products/latte.jpg
+  visible: true
+  learner_created: true
+- name: src/assets/products/espresso.jpg
+  visible: true
+  learner_created: true
+- name: src/assets/home-1.jpg
+  visible: true
+  learner_created: true
+- name: src/assets/about-1.jpg
   visible: true
   learner_created: true
 - name: src/style.css
   visible: true
   learner_created: true
-feedback_link: https://hyperskill.org/projects/210/stages/1053/implement#comment
+feedback_link: https://hyperskill.org/learn/step/15931#comment
 status: Solved
 feedback:
   message: Congratulations!
   time: Fri, 08 Apr 2022 14:24:10 UTC
-record: -1
+record: 4
